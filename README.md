@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/2321fe05-291e-4394-8f9f-b90a6c5605e2)
+
 ### **Bild 1: Was passiert hier?**
 
 1. **QUIC-Protokoll (Zeile 1)**:
@@ -22,6 +24,9 @@
    - Es sieht aus, als ob ein Gerät oder ein Dienst (`172.0.0.2`) alle eingehenden Verbindungsversuche systematisch ablehnt. Dies kann durch Sicherheitsvorkehrungen wie Firewalls, deaktivierte Dienste oder Konfigurationsprobleme verursacht werden.
 
 ---
+
+![image](https://github.com/user-attachments/assets/40dd517a-64a8-4b0a-9b45-c6d663f96498)
+
 
 ### **Bild 2: Was passiert hier?**
 
