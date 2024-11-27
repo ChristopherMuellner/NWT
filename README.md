@@ -25,8 +25,7 @@
 
 ---
 
-![image](https://github.com/user-attachments/assets/40dd517a-64a8-4b0a-9b45-c6d663f96498)
-
+![image](https://github.com/user-attachments/assets/7f669b68-552f-466d-8c39-d3aa9be1a490)
 
 ### **Bild 2: Was passiert hier?**
 
